@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo HTML, CSS, e algumas linguagens de programação (Python, JavaScrip, etc), também tenho interesse na area de Cloud.
 - 💞️ Procuro colaborar no que for preciso, como foco sempre na aprendisagem em programação.
 - 📫 How to reach me:
-     https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-soares-ba9228149/ <br>
+     [https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-soares-ba9228149/](https://www.linkedin.com/in/josé-antônio-soares-ba9228149/) <br>
        ou no email: toninhosrs@hotmail.com
 <!---
 toninhosrs/toninhosrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
