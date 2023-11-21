@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
   Sou Paulista, do litoral de São Paulo, tenho 50 anos e no momento estou estudando programação, como Python, JavaScript, Banco de Dados, entre outras, para poder fazer uma <strong>"transição de carreira"</strong> para área de programação, já que trabalhei a minha vida inteira com TI, mas na área de manutenção de computadores.<br>
   Ainda não estou trabalhando nessa área no momento, mas estou me esforçando para aprimorar cada vez mais meus conhecimentos.
 </p>
-
+<br>
+<br>
 
  ## 📋 Linguagens em Aprendizado:
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -26,11 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<br>
+<br> 
  
- 
-
 ## 📨 Sinta-se a vontade para entrar em contato: ⤵️
-
 
  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:toninhosrs@hotmail.com)
  
@@ -39,6 +39,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://wa.me/+5513997730982" title="WhatsApp" rel="nofollow">
 <img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="WhatsApp" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+<br>
+<br>
 
 ## ⚙️ GitHub Analytics
 
@@ -70,7 +72,6 @@ You can click the Preview link to take a look at your changes.
 </table>
 <br />
 
---- ### 🏆 GitHub Profile Trophy:
 
 <p align="center">
   <a
