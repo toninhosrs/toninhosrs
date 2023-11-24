@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> 
   Sou paulista, do litoral de São Paulo, tenho 50 anos e no momento estou estudando programação, como Python, JavaScript, Banco de Dados, entre outras, para poder fazer uma <strong>"transição de carreira"</strong> para área de programação, já que trabalhei a minha vida inteira com TI, mas na área de manutenção de computadores.<br>
-  Ainda não estou trabalhando nessa área no momento, mas estou me esforçando para aprimorar cada vez mais meus conhecimentos.
+  Ainda não estou trabalhando nessa área no momento (área de programação), mas estou me esforçando para aprimorar cada vez mais meus conhecimentos.
 </p>
 <br>
 <br>
